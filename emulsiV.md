@@ -8,7 +8,7 @@
 
 2. คลิกไปที่ RISC-V Exchange >> Available Software ตามภาพด้านล่างนี้
 
-![รูปภาพ2](https://user-images.githubusercontent.com/98943603/160874134-ee48bfe4-aa0c-4279-8ba1-992b15e6bec1.png)
+![รูปภาพ12](https://user-images.githubusercontent.com/98943603/160874308-066db401-0478-4a6d-acb3-cd3d3bc097b3.png)
 
 3. เลื่อนลงหาช่อง EmusiV กดเลือก Working Instance ตามภาพข้างล่างนี้
 
