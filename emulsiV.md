@@ -4,11 +4,11 @@
 
 1. เข้าไปที่เว็บไซต์ riscv.org ตามภาพข้างล่างนี้
 
-![รูปภาพ1](https://user-images.githubusercontent.com/98943603/160855793-bc91967b-1529-42fe-84be-5466c375f301.png)
+![รูปภาพ11](https://user-images.githubusercontent.com/98943603/160871493-57855779-04d3-487c-b93d-6c68773ff7fb.png)
 
-2. คลิกไปที่ RISC-V Exchange >> Available Software ตามภาพด้านล่างนี้ 
-
-![รูปภาพ2](https://user-images.githubusercontent.com/98943603/160855900-335251d7-0ef0-4e1b-8b87-a86d055f24f0.png)
+2. คลิกไปที่ RISC-V Exchange >> Available Software ตามภาพด้านล่างนี้
+ 
+![รูปภาพ12](https://user-images.githubusercontent.com/98943603/160871639-499a8be6-e1ec-429d-a248-7bf5cb6ab49a.png)
 
 3. เลื่อนลงหาช่อง EmusiV กดเลือก Working Instance ตาภาพข้างล่างนี้
 
@@ -41,11 +41,11 @@
 
 1. โดยใน address ที่ 20 จะเอาไว้กำหนดค่าที่ต้องการโดยค่า ช่องแรกตัว S จะใส่เป็นเลข 53 และช่องที่สองตัว T จะใส่เป็นเลข 54 จะได้ตาภาพข้างล่างนี้
 
-![รูปภาพ8](https://user-images.githubusercontent.com/98943603/160861728-0eae83dc-3532-40c0-84d7-bb48d7c8be06.png)
+![รูปภาพ8](https://user-images.githubusercontent.com/98943603/160871199-31ef67f5-473f-44b4-aed6-139281865f04.png)
 
 ซึ่งเราสามารถทราบตัวเลขที่จะใส่ค่าได้จากตาราง ASCII 
 
-![รูปภาพ9](https://user-images.githubusercontent.com/98943603/160862114-4b75c0d6-fab8-42c0-9dc1-e1e0f3fe95a5.png)
+![รูปภาพ9](https://user-images.githubusercontent.com/98943603/160871883-6d1947e9-1cb9-4354-8128-82b6c5509da2.png)
 
 2. กดเริ่มการ RUN
 
