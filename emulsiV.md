@@ -31,7 +31,7 @@
 
 3. Text I/O เป็น input/output ใช้สำหรับตัวอักษร
 
-4. General-purpose I/O เป็น input/output ใช้สำหรับเซนเซอร์แสง
+4. General-purpose I/O เป็น input/output ใช้สำหรับเซนเซอร์
 
 5. Bitmap output ใช่เขียนรูปจาก Memory
 
